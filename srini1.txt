@@ -1,3 +1,6 @@
 first commit
+<<<<<<< HEAD
 forth commit
 fifth commit
+=======
+>>>>>>> parent of 0e4898e... 4th commit
