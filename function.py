@@ -1,5 +1,3 @@
-
-
 def repeat():
     lyrics()
     lyrics()
