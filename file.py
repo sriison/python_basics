@@ -9,3 +9,4 @@ str = file.read()
 print (str[0])
 file.close()
 os.remove("srini.txt")
+
