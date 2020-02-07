@@ -12,7 +12,7 @@ for i in range(1,10):
             print ("you are genius")
 
         elif num < guess:
-            print ("only enter a higher number")
+            print ("enter a higher number")
             chances_left = 10 - chances
         elif num > guess:
             print ("enter a lower number")
